@@ -60,6 +60,6 @@ print(polyline[2].x)  --> 10
 print(polyline[1][1].i) --> 19
 ```
 
-> **Reference**<br>
-> **[Programming in Lua Chapter3](https://www.lua.org/pil/3.html)**
+> **reference**<br>
+> **[programming in lua chapter3](https://www.lua.org/pil/3.html)**
 
